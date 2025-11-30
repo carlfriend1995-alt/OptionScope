@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/carlfriend1995-alt/optionscope.git
+git add .
+git commit -m "Initial launch v0.1.0"
+git push -u origin main
