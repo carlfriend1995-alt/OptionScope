@@ -1,0 +1,22 @@
+OptionScope/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt        # or package.json if using Node
+├── Dockerfile              # optional, for deployment
+├── docker-compose.yml      # optional, for multi-service setup
+├── src/
+│   ├── __init__.py
+│   ├── app.py              # main entry point
+│   ├── utils.py            # helper functions
+│   └── models/             # trading models, probability sims
+├── tests/
+│   ├── test_app.py
+│   └── test_utils.py
+├── docs/
+│   └── roadmap.md          # mirrors GitHub project milestones
+└── .github/
+    ├── workflows/
+    │   └── ci.yml          # CI/CD pipeline (tests, linting)
+    └── ISSUE_TEMPLATE.md   # optional, for structured feedback
+  
