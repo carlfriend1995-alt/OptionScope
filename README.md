@@ -14,6 +14,6 @@ It’s designed to be approachable for beginners while offering advanced toggles
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/OptionScope.git
+git clone https://github.com/carlfriend1995-alt/OptionScope.git
 cd OptionScope
 
